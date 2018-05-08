@@ -1,0 +1,1 @@
+extractEachKth = (inputArray, k) => inputArray.filter((el, i) => (i + 1) % k !== 0);
